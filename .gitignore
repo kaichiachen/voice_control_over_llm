@@ -1,0 +1,6 @@
+# Hide some OS X stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+custom_components/voice_control_over_llm/__pycache__

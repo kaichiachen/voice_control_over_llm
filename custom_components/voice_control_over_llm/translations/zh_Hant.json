@@ -1,0 +1,14 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "設置對話助理",
+          "description": "輸入對話助理的必要API Tokens",
+          "data": {
+            "HA Token": "Home Assistant 的 API Token",
+            "Gemini Token": "Google Gemini 的 API Token"
+          }
+        }
+      }
+    }
+  }

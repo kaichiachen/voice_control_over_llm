@@ -1,0 +1,17 @@
+{
+    "domain": "voice_control_over_llm",
+    "name": "Voice control over Google Gemini LLM",
+    "version": "1.0",
+    "documentation": "https://github.com/kaichiachen/voice_control_over_llm",
+    "codeowners": ["kaichiasjtu@gmail.com"],
+    "requirements": [
+        "langchain_core==0.2.8",
+        "langchain_google_genai==1.0.6",
+        "langchain==0.2.5",
+        "requests==2.32.3"
+    ],
+    "integration_type": "service",
+    "dependencies": ["conversation"],
+    "config_flow": true,
+    "icon": "local/icons/icon.png"
+}
