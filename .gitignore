@@ -4,3 +4,5 @@
 .LSOverride
 
 custom_components/voice_control_over_llm/__pycache__
+custom_components/voice_control_over_llm/test
+
